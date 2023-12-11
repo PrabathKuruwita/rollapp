@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: application
-        image: PrabathKuruwita/rollapp:1.0.0
+        image: ahmedgabercod/rollapp:1.0.0
         ports:
         - containerPort: 8080
 
